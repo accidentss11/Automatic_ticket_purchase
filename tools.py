@@ -73,9 +73,9 @@ def account_login(login_type: str, login_id=None, login_password=None):
     """
     登录大麦网
 
-    :param login_id:
-    :param login_password:
-    :param login_type:  选择哪种方式进行登录
+    :param login_id:17679038802
+    ：参数登录密码：123456ad
+    :param login_type: 选择哪种方式进入行登录
     :return:
     """
     damai_title = '大麦网-全球演出赛事官方购票平台-100%正品、先付先抢、在线选座！'
